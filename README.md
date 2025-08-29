@@ -17,7 +17,7 @@ An intelligent application that transforms any YouTube video into a conversation
 
 ## Demo
 
-![Application Screenshot](placeholder.png)
+![Application Screenshot](./assets/ss1.png)
 
 ## Tech Stack & Architecture
 
